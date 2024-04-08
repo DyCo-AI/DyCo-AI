@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is the Dynamics and Controls for Autonomy and Intelligence Lab. We are mainly focused on utilizing dynamical system and control theory for autonomy and intelligence. Currently the collective work can be seen through the website here:
+<br>
+https://cecas.clemson.edu/ugvaidya/home/
