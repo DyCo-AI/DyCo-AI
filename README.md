@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 This is the Dynamics and Controls for Autonomy and Intelligence Lab at Clemson University. We are mainly focused on utilizing dynamical system and control theory for autonomy and intelligence. Currently the collective work can be seen through the website here:
 <br>
-https://cecas.clemson.edu/ugvaidya/home/
+https://dyco-ai.github.io/dycoailab_web/
